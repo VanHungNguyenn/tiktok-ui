@@ -9,4 +9,15 @@
 .inner {
 	height: 100%;
 	width: var(--default-layout-width);
+	display: flex;
+	align-items: center;
+}
+
+.search {
+}
+.clear {
+}
+.loading {
+}
+.search-btn {
 }
